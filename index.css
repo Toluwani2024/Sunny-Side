@@ -328,6 +328,7 @@ max-width: 350px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     margin-top: 70px;
+    
     }
     .footer{
         background-color: var(--Dark-moderate-cyan);
@@ -454,7 +455,11 @@ max-width: 350px;
     font-size: 14px;
 }
 
-
-
-
 }
+   
+
+
+
+
+
+
