@@ -253,6 +253,12 @@ max-width: 350px;
    background-color: rgb(255, 255, 255);
    gap: 100px;
 }
+.head{
+    font-size: medium;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
 .testimonials{
     display: flex;
     justify-content: space-between;
@@ -279,6 +285,7 @@ max-width: 350px;
     margin-top: 40px;
     font-size: medium;
     color: black;
+    padding: 20px;
     
 }
 
