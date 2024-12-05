@@ -251,6 +251,7 @@ max-width: 350px;
    width: 100%;
    height: auto;
    background-color: rgb(255, 255, 255);
+   gap: 100px;
 }
 .testimonials{
     display: flex;
@@ -268,7 +269,6 @@ max-width: 350px;
 
 .emilyimage{
     border-radius: 400px;
-   
 }
 
 .emilyone{
@@ -277,11 +277,23 @@ max-width: 350px;
 
 .emilybrand{
     margin-top: 40px;
+    font-size: medium;
+    color: black;
+    
 }
 
 .emilyservice{
     margin-top: 40px;
+    font-size: medium;
+    color: black;
 }
+.emilyengage{
+    font-size: medium;
+    color: black;
+}
+
+    
+
 
 .thomas{
     text-align: center;
@@ -298,10 +310,19 @@ max-width: 350px;
 
 .thomasbrand{
     margin-top: 40px;
+    font-size: medium;
+    color: black;
 }
 
 .thomasservice{
     margin-top: 40px;
+    font-size: medium;
+    color: black;
+
+}
+.thomasengage{
+    font-size: medium;
+    color: black;
 }
 
 .jenie{
@@ -315,10 +336,18 @@ max-width: 350px;
 
 .jeniebrand{
     margin-top: 40px;
+    font-size: medium;
+    color: black;
 }
 
 .jenieservice{
     margin-top: 40px;
+    font-size: medium;
+    color: black;
+}
+.jenieengage{
+    font-size: medium;
+    color: black;
 }
 
 .jenieone{
@@ -453,6 +482,12 @@ max-width: 350px;
     gap: 60px;
     padding: 15px;
     font-size: 14px;
+}
+ul li {
+    display: none;
+}
+.testimonials{
+    gap: 100px;
 }
 
 }
